@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="jaN-fc-PwF">
+                                <rect key="frame" x="20" y="8" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="126" borderStyle="roundedRect" minimumFontSize="17" id="Ia0-pf-tyK">
+                                <rect key="frame" x="88" y="43" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="60" borderStyle="roundedRect" minimumFontSize="17" id="vTy-tF-QxW">
+                                <rect key="frame" x="206" y="0.0" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="76" borderStyle="roundedRect" minimumFontSize="17" id="qyV-yo-SoT">
+                                <rect key="frame" x="320" y="0.0" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="124" borderStyle="roundedRect" minimumFontSize="17" id="G2g-Ev-FYy">
+                                <rect key="frame" x="184" y="102" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="123" borderStyle="roundedRect" minimumFontSize="17" id="gYa-eZ-pMz">
+                                <rect key="frame" x="0.0" y="108" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="125" borderStyle="roundedRect" minimumFontSize="17" id="77j-SS-huO">
+                                <rect key="frame" x="88" y="269" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="sPq-3o-5l0">
+                                <rect key="frame" x="334" y="198" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="N8b-f6-KAI">
+                                <rect key="frame" x="459" y="198" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="0" borderStyle="roundedRect" minimumFontSize="17" id="Laj-0d-ZDF">
+                                <rect key="frame" x="329" y="79" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="1" borderStyle="roundedRect" minimumFontSize="17" id="wOr-jh-nqg">
+                                <rect key="frame" x="451" y="79" width="97" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <view contentMode="scaleToFill" id="ELO-9a-IAq" customClass="MyButton">
+                                <rect key="frame" x="88" y="66" width="96" height="73"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="Ia0-pf-tyK" id="DHQ-pz-oFo"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="aPe-Ga-7bY" customClass="MyButton">
+                                <rect key="frame" x="0.0" y="140" width="97" height="67"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="gYa-eZ-pMz" id="nSZ-RC-YTG"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="Xwm-gm-zbJ" customClass="MyButton">
+                                <rect key="frame" x="88" y="207" width="97" height="73"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="77j-SS-huO" id="yKV-bC-DMO"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="jAL-UM-5KM" customClass="MyButton">
+                                <rect key="frame" x="366" y="118" width="70" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="Laj-0d-ZDF" id="t1I-e3-rOB"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="zeq-tQ-b3s" customClass="MyButton">
+                                <rect key="frame" x="366" y="232" width="70" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="sPq-3o-5l0" id="jYg-bW-0bM"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="3IP-rA-MBX" customClass="MyButton">
+                                <rect key="frame" x="466" y="232" width="70" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" id="qLM-5e-MXt" customClass="MyButton">
+                                <rect key="frame" x="228" y="26" width="75" height="43"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="vTy-tF-QxW" id="NUq-AI-NuO"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="n8o-rV-tor" customClass="MyButton">
+                                <rect key="frame" x="320" y="26" width="83" height="43"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="qyV-yo-SoT" id="B0k-HN-Q9n"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" id="0LK-G3-O5D" customClass="MyButton">
+                                <rect key="frame" x="459" y="118" width="70" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="wOr-jh-nqg" id="cij-Rp-0Mh"/>
+                                </connections>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="5r8-In-CBd">
+                                <rect key="frame" x="135" y="5" width="72" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                                <state key="normal" title="连接">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="connect" destination="BYZ-38-t0r" eventType="touchUpInside" id="87j-IQ-Aam"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="lq7-rq-Xps">
+                                <rect key="frame" x="446" y="20" width="90" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="setcode"/>
+                                <connections>
+                                    <action selector="toggleCode:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1wf-eg-iGF"/>
+                                </connections>
+                            </button>
+                            <view contentMode="scaleToFill" id="KGV-Gj-2gu" customClass="MyButton">
+                                <rect key="frame" x="177" y="135" width="88" height="77"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.74509803919999995" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="codeFiled" destination="G2g-Ev-FYy" id="dqO-AI-l2E"/>
+                                </connections>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                    <connections>
+                        <outlet property="inputNameField" destination="jaN-fc-PwF" id="gpM-1T-zT2"/>
+                        <outletCollection property="btns" destination="ELO-9a-IAq" id="GXX-or-1C0"/>
+                        <outletCollection property="btns" destination="aPe-Ga-7bY" id="lcQ-Y9-t0c"/>
+                        <outletCollection property="btns" destination="KGV-Gj-2gu" id="IIb-nx-ta4"/>
+                        <outletCollection property="btns" destination="jAL-UM-5KM" id="21h-B2-LZO"/>
+                        <outletCollection property="btns" destination="0LK-G3-O5D" id="K0z-2Y-7pQ"/>
+                        <outletCollection property="btns" destination="zeq-tQ-b3s" id="UoS-tv-cI8"/>
+                        <outletCollection property="btns" destination="3IP-rA-MBX" id="oIm-Ca-Bze"/>
+                        <outletCollection property="btns" destination="n8o-rV-tor" id="Iil-nw-YuV"/>
+                        <outletCollection property="btns" destination="qLM-5e-MXt" id="l0c-Ju-3Wd"/>
+                        <outletCollection property="codes" destination="Ia0-pf-tyK" id="R6N-qP-Awx"/>
+                        <outletCollection property="codes" destination="gYa-eZ-pMz" id="3CB-85-tLB"/>
+                        <outletCollection property="codes" destination="G2g-Ev-FYy" id="a6h-Uq-44D"/>
+                        <outletCollection property="codes" destination="77j-SS-huO" id="dl9-11-AsZ"/>
+                        <outletCollection property="codes" destination="vTy-tF-QxW" id="6uH-JT-enr"/>
+                        <outletCollection property="codes" destination="qyV-yo-SoT" id="2Y8-c8-BZB"/>
+                        <outletCollection property="codes" destination="Laj-0d-ZDF" id="JDm-nd-ax2"/>
+                        <outletCollection property="codes" destination="wOr-jh-nqg" id="cOs-N0-4qX"/>
+                        <outletCollection property="codes" destination="sPq-3o-5l0" id="rWh-nL-dcI"/>
+                        <outletCollection property="codes" destination="N8b-f6-KAI" id="r00-HS-9kH"/>
+                        <outletCollection property="btns" destination="Xwm-gm-zbJ" id="Ijf-hx-KNy"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="181" y="406"/>
+        </scene>
+    </scenes>
+</document>
